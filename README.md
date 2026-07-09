@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi, I'm Ayush Bhoi
 
-<!--
-**Ayush-Bhoi/Ayush-Bhoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python Backend Developer | Django | Flask | REST APIs | MySQL
 
-Here are some ideas to get you started:
+🎓 M.Sc. IT @ CHARUSAT
+🥈 Silver Medalist
+💻 10+ Full Stack Projects
+🌍 Open to International Opportunities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tech Stack
+Python | Django | Flask | MySQL | JavaScript | Git | GitHub
+
+📊 GitHub Stats
+🚀 Featured Projects
+📫 Contact
